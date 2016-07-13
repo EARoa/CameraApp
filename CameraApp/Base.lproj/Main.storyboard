@@ -36,10 +36,10 @@
                                 </constraints>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iHU-OC-KhO">
-                                <rect key="frame" x="277" y="550" width="46" height="30"/>
+                                <rect key="frame" x="188" y="504" width="225" height="30"/>
                                 <color key="backgroundColor" red="0.1274212301" green="0.12741741540000001" blue="0.127419591" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="46" id="Wp4-Cu-yYT"/>
+                                    <constraint firstAttribute="width" constant="225" id="Wp4-Cu-yYT"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
                                 <state key="normal" title="Save">
@@ -53,7 +53,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="hLB-Qy-dHZ" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="175" id="4u5-jt-p69"/>
-                            <constraint firstAttribute="bottom" secondItem="iHU-OC-KhO" secondAttribute="bottom" constant="20" symbolic="YES" id="Vm9-0g-w7t"/>
+                            <constraint firstAttribute="bottom" secondItem="iHU-OC-KhO" secondAttribute="bottom" constant="66" id="Vm9-0g-w7t"/>
                             <constraint firstItem="lhR-G1-CaV" firstAttribute="centerX" secondItem="hLB-Qy-dHZ" secondAttribute="centerX" id="bLU-fD-kXu"/>
                             <constraint firstItem="lhR-G1-CaV" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="gQ0-t9-sdh"/>
                             <constraint firstItem="lhR-G1-CaV" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="rpZ-nX-8dA"/>
